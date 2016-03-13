@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\SubtractionQuiz\SubtractionQuiz\bin\Debug\SubtractionQuiz.exe.config
+c:\users\user\documents\visual studio 2013\Projects\SubtractionQuiz\SubtractionQuiz\obj\Debug\SubtractionQuiz.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\SubtractionQuiz\SubtractionQuiz\obj\Debug\SubtractionQuiz.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\SubtractionQuiz\SubtractionQuiz\obj\Debug\SubtractionQuiz.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\SubtractionQuiz\SubtractionQuiz\bin\Debug\SubtractionQuiz.exe
+c:\users\user\documents\visual studio 2013\Projects\SubtractionQuiz\SubtractionQuiz\bin\Debug\SubtractionQuiz.pdb
+c:\users\user\documents\visual studio 2013\Projects\SubtractionQuiz\SubtractionQuiz\bin\Debug\SubtractionQuiz.xml
+c:\users\user\documents\visual studio 2013\Projects\SubtractionQuiz\SubtractionQuiz\obj\Debug\SubtractionQuiz.exe
+c:\users\user\documents\visual studio 2013\Projects\SubtractionQuiz\SubtractionQuiz\obj\Debug\SubtractionQuiz.xml
+c:\users\user\documents\visual studio 2013\Projects\SubtractionQuiz\SubtractionQuiz\obj\Debug\SubtractionQuiz.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\SubtractionQuiz\SubtractionQuiz\obj\Debug\SubtractionQuiz.vbprojResolveAssemblyReference.cache
